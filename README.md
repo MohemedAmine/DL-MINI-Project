@@ -44,8 +44,8 @@ Optimizer: Adam
 
 | Model           | MSE ↓   | PSNR ↑     |
 |----------------|---------|------------|
-| Autoencoder 1  | 0.0068  | ~25.2 dB   |
-| Autoencoder 2  | 0.0053  | ~26.5 dB   |
+| Autoencoder 1  | 0.0106  | ~18.8 dB   |
+| Autoencoder 2  | 0.0087  | ~19.9 dB   |
 
 Qualitative results show sharper, cleaner reconstructions with improved tumor visibility.
 
@@ -53,5 +53,5 @@ Qualitative results show sharper, cleaner reconstructions with improved tumor vi
 
 ```bash
 git clone https://github.com/yourusername/brain-mri-autoencoder.git
-cd brain-mri-autoencoder
+cd brain_tumor_denoising
 pip install -r requirements.txt

@@ -50,8 +50,19 @@ Optimizer: Adam
 Qualitative results show sharper, cleaner reconstructions with improved tumor visibility.
 
 ## ⚙️ Installation
-
 ```bash
-git clone https://github.com/yourusername/brain-mri-autoencoder.git
+git clone https://github.com/MohemedAmine/brain-mri-autoencoder.git
 cd brain_tumor_denoising
 pip install -r requirements.txt
+
+---
+
+## 👨‍💻 Author
+**Mohamed amine OULAD SAID**  
+> AIDS Student
+📧 Contact: *mohamedamineouledsaid10@gmail.com*  
+
+---
+
+## 🧾 License
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.

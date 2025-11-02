@@ -61,7 +61,7 @@ pip install -r requirements.txt
 ## 👨‍💻 Author
 **Mohamed amine OULAD SAID**  
 > AIDS Student
-📧 Contact: *mohamedamineouledsaid10@gmail.com*  
+>📧 Contact: *mohamedamineouledsaid10@gmail.com*  
 
 ---
 

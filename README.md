@@ -54,6 +54,7 @@ Qualitative results show sharper, cleaner reconstructions with improved tumor vi
 git clone https://github.com/MohemedAmine/brain-mri-autoencoder.git
 cd brain_tumor_denoising
 pip install -r requirements.txt
+```
 
 ---
 
